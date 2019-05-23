@@ -1,0 +1,19 @@
+/*
+   This file contains the info used by the WP theme selector to describe your theme.
+	 Things marked with * are required.
+
+   Theme Name (*): Name of the theme.
+   Theme URI: The URL of a public web page where users can find more information about the theme.
+   Author (*): The name of the individual or organization who developed the theme. Using the Theme Author’s wordpress.org username is recommended.
+   Author URI: The URL of the authoring individual or organization.
+   Description (*): A short description of the theme.
+   Version (*): The version, written in X.X or X.X.X format.
+   License (*): The license of the theme.
+   License URI (*): The URL of the theme license.
+   Text Domain (*): The string used for textdomain for translation.
+   Tags: Words or phrases that allow users to find the theme using the tag filter. A full list of tags is in the Theme Review Handbook.
+   Domain Path: Used so that WordPress knows where to find the translation when the theme is disabled. Defaults to /languages.
+
+	 After these comments, you can include other CSS stuff in this file (or use a css/custom.css stylesheet instead).
+	 More info: https://developer.wordpress.org/themes/basics/main-stylesheet-style-css/
+ */
