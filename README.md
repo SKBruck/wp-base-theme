@@ -9,7 +9,7 @@ I made this repo essentially so I wouldn't have to rewatch tutorials and re-read
 1. Download the files (maintaining the directory structure and filenames)
 2. Delete or customize .gitignore and README.me
 3. Customize the files as necessary
-  1. Files in the css and js directories can be renamed
+    1. Files in the css and js directories can be renamed
 4. When done, upload to your WP site and activate the theme
 5. ???
 6. Profit
