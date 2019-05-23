@@ -1,0 +1,3 @@
+/*
+	Custom JavaScript for the theme is added in this file.
+*/
