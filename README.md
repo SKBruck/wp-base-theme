@@ -19,5 +19,9 @@ I made this repo essentially so I wouldn't have to rewatch tutorials and re-read
 * [WordPress.org Codex](https://codex.wordpress.org/)
 * [WordPress.org Developer Resources](https://developer.wordpress.org/)
   * Especially [WordPress.org Theme Developer's Handbook](https://developer.wordpress.org/themes/)
-* [Alessandro Castellani's WordPress 101 for Beginner Developers Tutorial Series](https://www.youtube.com/watch?v=oTRZYnYQlmo&list=PLriKzYyLb28nUFbe0Y9d-19uVkOnhYxFE)
+* Alessandro Castellani's *Tutorials*
+  * [WordPress 101 for Beginner Developers Tutorial Series](https://www.youtube.com/watch?v=oTRZYnYQlmo&list=PLriKzYyLb28nUFbe0Y9d-19uVkOnhYxFE) - (A [repo of lessons](https://github.com/Alecaddd/WordPress101) is available but was not used here)
+	* [Create a Premium WordPress Theme](https://www.youtube.com/watch?v=ViZLtFIcSfo&list=PLriKzYyLb28kpEnFFi9_vJWPf5-_7d3rX)
+* [TheManiac's StackOverflow "How to add Bootstrap CDN to my WordPress" Answer](https://stackoverflow.com/a/37494586)
+* [TubeMint's How to Add/Enqueue Bootstrap to WordPress Tutorial](https://youtu.be/kRK3RVtMZJI)
 * [PHP Manual](https://www.php.net/manual/en/index.php)
